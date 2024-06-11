@@ -10,6 +10,9 @@ The goal is to boost my capabilities in my current role and while gaining new sk
 - Release management
 - Devtools senior support engineer
 
+#### Roadmaps
+- [Learning roadmap](https://github.com/users/askmarkio/projects/2)
+
 ## Stats
 
 ![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=askmarkio&show_icons=true&theme=dark&icon_color=ffff00&bg_color=00000000) 
