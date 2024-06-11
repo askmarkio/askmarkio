@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**askmarkio/askmarkio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am beginning my programming journey. I've always been in the neighborhood, but never really sat down to learn.
 
-Here are some ideas to get you started:
+The goal is to boost my capabilities in my current role and while gaining new skills and completing some long held goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Experience
+
+- [Software configuration management](https://en.wikipedia.org/wiki/Software_configuration_management) / DevOps
+- Release management
+- Devtools senior support engineer
+
+## Stats
+
+![Mark's GitHub stats](https://github-readme-stats.vercel.app/api?username=askmarkio&show_icons=true&theme=dark&icon_color=ffff00&bg_color=00000000) 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=askmarkio&theme=dark&icon_color=ffff00&bg_color=00000000)
